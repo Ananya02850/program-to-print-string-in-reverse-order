@@ -1,2 +1,2 @@
-# prohram-to-print-string-in-reverse-order
+# program-to-print-string-in-reverse-order
 string in reverse order
